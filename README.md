@@ -59,6 +59,9 @@ No Activity tracked this Week
 Visitor count<br>
 <img src="https://profile-counter.glitch.me/dexterpuru/count.svg" />
 
+Feel free to Copy stuff to make your profile README
+and if you like it please leave a :star:.
+
 
 <!-- links to social media icons -->
 
