@@ -49,7 +49,8 @@ No Activity tracked this Week
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dexterpuru&layout=compact&theme=tokyonight)
 [![Pratyaksh StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=10071608&layout=compact&theme=dark)](https://stackoverflow.com/users/10071608/pratyaksh-saini?tab=topactivity)
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=dexterpuru.visitor-badge)
+Visitor count<br>
+<img src="https://profile-counter.glitch.me/dexterpuru/count.svg" />
 
 
 <!-- links to social media icons -->
