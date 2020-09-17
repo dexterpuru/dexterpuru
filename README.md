@@ -1,6 +1,13 @@
 # Hello! <img src="https://raw.githubusercontent.com/dexterpuru/dexterpuru/master/wave.gif" width="30px">
 
-My name is Pratyaksh Saini and I'm a Junior Full Stack Developer. I'm from India, living in Haryana and currently working at Unbunked.
+- 🔭 I’m currently working for [Unbunked](https://unbunked.com/)  
+  
+
+- 🌱 I’m currently learning React.js and GraphQL. 
+  
+
+- 🎮 I'm playing Apex Legends and Valorant
+
 <a href="https://twitter.com/saini_pratyaksh">![](https://img.shields.io/badge/<@saini_pratyaksh>%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white)</a>
 <a href="https://www.linkedin.com/in/dexterpuru/">![](https://img.shields.io/badge/dexterpuru%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)</a>
 
