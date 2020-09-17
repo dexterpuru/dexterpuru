@@ -24,7 +24,7 @@ My name is Pratyaksh Saini and I'm a Junior Full Stack Developer. I'm from India
 ![Pratyaksh's github stats](https://github-readme-stats.vercel.app/api?username=dexterpuru&theme=tokyonight&hide=stars&count_private=true&show_icons=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dexterpuru&layout=compact&theme=tokyonight)
 
-
+![visitors](https://visitor-badge.glitch.me/badge?page_id=dexterpuru.visitor-badge)
 
 <!-- links to social media icons -->
 
