@@ -47,12 +47,14 @@ No Activity tracked this Week
 
 ![Pratyaksh's github stats](https://github-readme-stats.vercel.app/api?username=dexterpuru&theme=tokyonight&hide=stars&count_private=true&show_icons=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dexterpuru&layout=compact&theme=tokyonight)
+
+<details>
+  <summary>My Stackoverflow card</summary
 [![Pratyaksh StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=10071608&layout=compact&theme=dark)](https://stackoverflow.com/users/10071608/pratyaksh-saini?tab=topactivity)
+</details>
 
 Visitor count<br>
 <img src="https://profile-counter.glitch.me/dexterpuru/count.svg" />
-
-![trophy](https://github-profile-trophy.vercel.app/?username=dexterpuru&theme=onedark)
 
 
 <!-- links to social media icons -->
