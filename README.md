@@ -23,6 +23,9 @@ My name is Pratyaksh Saini and I'm a Junior Full Stack Developer. I'm from India
 
 📊 **Weekly development breakdown**
 <!--START_SECTION:waka-->
+```text
+No Activity tracked this Week
+```
 <!--END_SECTION:waka-->
 
 -------
