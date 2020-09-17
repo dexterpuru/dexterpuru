@@ -52,6 +52,8 @@ No Activity tracked this Week
 Visitor count<br>
 <img src="https://profile-counter.glitch.me/dexterpuru/count.svg" />
 
+![trophy](https://github-profile-trophy.vercel.app/?username=dexterpuru&theme=onedark)
+
 
 <!-- links to social media icons -->
 
