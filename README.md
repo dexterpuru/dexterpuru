@@ -1,8 +1,8 @@
-# Hello! <img src="https://raw.githubusercontent.com/dexterpuru/dexterpuru/master/wave.gif" width="30px">
+# Hello!, I am Pratyaksh <img src="https://raw.githubusercontent.com/dexterpuru/dexterpuru/master/wave.gif" width="30px">
 
 <img align="right" src="https://media.giphy.com/media/Vuw9m5wXviFIQ/source.gif" width="280" height="auto" />
 
-- 🔭 I’m currently working for [Unbunked](https://unbunked.com/)  
+- 🔭 I’m currently working for [Unbunked](https://unbunked.com/) as a Full Stack Intern
   
 
 - 🌱 I’m currently learning React.js and GraphQL. 
