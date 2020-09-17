@@ -1,5 +1,7 @@
 # Hello! <img src="https://raw.githubusercontent.com/dexterpuru/dexterpuru/master/wave.gif" width="30px">
 
+<img align="right" src="https://media.giphy.com/media/Vuw9m5wXviFIQ/source.gif" width="280" height="auto" />
+
 - 🔭 I’m currently working for [Unbunked](https://unbunked.com/)  
   
 
@@ -9,6 +11,8 @@
 - 🎮 I'm playing Apex Legends and Valorant
 
 - 📙 Here is my [Resume](https://drive.google.com/file/d/1BGskPT5a3bRPGwm67JAgIMQwdBiPY_0w/view?usp=sharing)
+
+
 
 <a href="https://twitter.com/saini_pratyaksh">![](https://img.shields.io/badge/<@saini_pratyaksh>%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white)</a>
 <a href="https://www.linkedin.com/in/dexterpuru/">![](https://img.shields.io/badge/dexterpuru%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)</a>
