@@ -19,12 +19,21 @@ My name is Pratyaksh Saini and I'm a Junior Full Stack Developer. I'm from India
 ![](https://img.shields.io/badge/Tools-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-MongoDB-informational?style=flat&logo=mongodb&logoColor=white&color=2bbc8a)
 
+-------
+
+📊 **Weekly development breakdown**
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+-------
+
 ## &#x1f4c8; GitHub Stats
 
 ![Pratyaksh's github stats](https://github-readme-stats.vercel.app/api?username=dexterpuru&theme=tokyonight&hide=stars&count_private=true&show_icons=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dexterpuru&layout=compact&theme=tokyonight)
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=dexterpuru.visitor-badge)
+
 
 <!-- links to social media icons -->
 
