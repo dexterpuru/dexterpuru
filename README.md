@@ -40,9 +40,54 @@
 
 📊 **Weekly development breakdown**
 <!--START_SECTION:waka-->
+![Profile Views](http://img.shields.io/badge/Profile%20Views-10-blue)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-224454%20lines%20of%20code-blue)
+
+**🐱 My Github Data** 
+
+> 🏆 270 Contributions in the Year 2020
+ > 
+> 📦 0 Bytes Used in Github's Storage 
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 75 Public Repositories
+ > 
+> 🔑 0 Private Repository 
+ > 
+**I'm a Night 🦉** 
+
 ```text
-No Activity tracked this Week
+🌞 Morning    27 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.04% 
+🌆 Daytime    43 commits     █████░░░░░░░░░░░░░░░░░░░░   20.77% 
+🌃 Evening    75 commits     █████████░░░░░░░░░░░░░░░░   36.23% 
+🌙 Night      62 commits     ███████░░░░░░░░░░░░░░░░░░   29.95%
+
 ```
+📅 **I'm Most Productive on Friday** 
+
+```text
+Monday       11 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   5.31% 
+Tuesday      17 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.21% 
+Wednesday    44 commits     █████░░░░░░░░░░░░░░░░░░░░   21.26% 
+Thursday     50 commits     ██████░░░░░░░░░░░░░░░░░░░   24.15% 
+Friday       55 commits     ██████░░░░░░░░░░░░░░░░░░░   26.57% 
+Saturday     20 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.66% 
+Sunday       10 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   4.83%
+
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+```
+
+
 <!--END_SECTION:waka-->
 
 -------
