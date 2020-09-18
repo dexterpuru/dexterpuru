@@ -1,8 +1,9 @@
 name: Waka Readme
 
-on:
+on: 
+  workflow_dispatch:
   schedule:
-    # Runs at 12am IST
+    # Runs every minute
     - cron: "*/1 * * * *"
 
 jobs:
