@@ -3,7 +3,7 @@ name: Waka Readme
 on:
   schedule:
     # Runs at 12am IST
-    - cron: '\1 * * *'
+    - cron: '*/1 * * *'
 
 jobs:
   update-readme:
@@ -14,6 +14,7 @@ jobs:
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
+          USERNAME: dexterpuru
           SHOW_LINES_OF_CODE : True
           SHOW_OS: False
           SHOW_PROJECTS : False
