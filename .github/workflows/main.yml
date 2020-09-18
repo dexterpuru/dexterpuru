@@ -3,8 +3,8 @@ name: Waka Readme
 on: 
   workflow_dispatch:
   schedule:
-    # Runs every 5 minute
-    - cron: "*/5 * * * *"
+    # Runs 00:00 UTC everyday
+    - cron: "0 0 * * *"
 
 jobs:
   update-readme:
@@ -17,6 +17,7 @@ jobs:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
           USERNAME: dexterpuru
           SHOW_LINES_OF_CODE : True
+          SHOW_PROFILE_VIEWS : False
           SHOW_OS: False
           SHOW_PROJECTS : False
           SHOW_EDITORS : False
