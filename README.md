@@ -40,11 +40,11 @@
 
 📊 **Weekly development breakdown**
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.1%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.0%20million%20lines%20of%20code-blue)
 
 **🐱 My Github Data** 
 
-> 🏆 270 Contributions in the Year 2020
+> 🏆 274 Contributions in the Year 2020
  > 
 > 📦 0 Bytes Used in Github's Storage 
  > 
@@ -57,10 +57,10 @@
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning    28 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.46% 
-🌆 Daytime    43 commits     █████░░░░░░░░░░░░░░░░░░░░   20.67% 
+🌞 Morning    31 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.9% 
+🌆 Daytime    41 commits     █████░░░░░░░░░░░░░░░░░░░░   19.71% 
 🌃 Evening    75 commits     █████████░░░░░░░░░░░░░░░░   36.06% 
-🌙 Night      62 commits     ███████░░░░░░░░░░░░░░░░░░   29.81%
+🌙 Night      61 commits     ███████░░░░░░░░░░░░░░░░░░   29.33%
 
 ```
 📅 **I'm Most Productive on Friday** 
@@ -81,7 +81,9 @@ Sunday       10 commits     █░░░░░░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+JavaScript               4 hrs 1 min         █████████████████████████   99.6% 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.37% 
+TypeScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.03%
 
 ```
 
