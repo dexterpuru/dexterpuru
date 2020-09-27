@@ -40,17 +40,17 @@
 
 📊 **Weekly development breakdown**
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.1%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.8%20million%20lines%20of%20code-blue)
 
 **🐱 My Github Data** 
 
-> 🏆 289 Contributions in the Year 2020
+> 🏆 290 Contributions in the Year 2020
  > 
 > 📦 0 Bytes Used in Github's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 71 Public Repositories
+> 📜 72 Public Repositories
  > 
 > 🔑 0 Private Repository 
  > 
@@ -81,11 +81,11 @@ Sunday       13 commits     █░░░░░░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-JavaScript               16 hrs 1 min        ██████████████████████░░░   91.02% 
-Python                   1 hr 26 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   8.21% 
-Markdown                 3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.31% 
-Git Config               2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.28% 
-Other                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   0.17%
+JavaScript               12 hrs 34 mins      ██████████████████████░░░   89.09% 
+Python                   1 hr 26 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   10.15% 
+Markdown                 3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.39% 
+Other                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   0.22% 
+Git Config               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   0.15%
 
 ```
 
