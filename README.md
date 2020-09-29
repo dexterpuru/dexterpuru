@@ -95,7 +95,7 @@ Java                     0 secs              ░░░░░░░░░░░�
 
 ## &#x1f4c8; GitHub Stats
 
-![Pratyaksh's github stats](https://github-readme-stats.vercel.app/api?username=dexterpuru&theme=tokyonight&hide=stars&count_private=true&show_icons=true)
+![Pratyaksh's github stats](https://github-readme-stats.vercel.app/api?username=dexterpuru&theme=tokyonight&count_private=true&show_icons=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dexterpuru&layout=compact&theme=tokyonight)
 
 **My StackOverflow Card**
