@@ -40,7 +40,7 @@
 
 📊 **Weekly development breakdown**
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.2%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-149883%20lines%20of%20code-blue)
 
 **🐱 My Github Data** 
 
@@ -81,9 +81,9 @@ Sunday       25 commits     ██░░░░░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Python                   42 mins             ██████████████░░░░░░░░░░░   56.78% 
-JavaScript               29 mins             ██████████░░░░░░░░░░░░░░░   39.83% 
-JSON                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   3.39%
+Python                   2 hrs 55 mins       ███████████████████░░░░░░   76.8% 
+JavaScript               50 mins             █████░░░░░░░░░░░░░░░░░░░░   22.1% 
+JSON                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.1%
 
 ```
 
