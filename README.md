@@ -98,10 +98,6 @@ JSON                     0 secs              ░░░░░░░░░░░�
 ![Pratyaksh's github stats](https://github-readme-stats.vercel.app/api?username=dexterpuru&theme=tokyonight&count_private=true&show_icons=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dexterpuru&layout=compact&theme=tokyonight)
 
-**My StackOverflow Card**
-
-[![Pratyaksh StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=10071608&layout=compact&theme=dark)](https://stackoverflow.com/users/10071608/pratyaksh-saini?tab=topactivity)
-
 Visitor count<br>
 <img src="https://profile-counter.glitch.me/dexterpuru/count.svg" />
 
