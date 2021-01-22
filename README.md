@@ -44,7 +44,7 @@
 
 **🐱 My Github Data** 
 
-> 🏆 5 Contributions in the Year 2021
+> 🏆 22 Contributions in the Year 2021
  > 
 > 📦 0 Bytes Used in Github's Storage 
  > 
@@ -81,7 +81,7 @@ Sunday       18 commits     ██░░░░░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Markdown                 40 mins             █████████████████████████   100.0%
+Markdown                 5 mins              █████████████████████████   100.0%
 
 ```
 
