@@ -33,63 +33,7 @@
 <a href="#">![](https://img.shields.io/badge/postgres-%23316192.svg?&style=for-the-badge&logo=postgresql&logoColor=white)</a>
 <a href="#">![](https://img.shields.io/badge/sqlite-%2307405e.svg?&style=for-the-badge&logo=sqlite&logoColor=white)</a>
 <a href="#">![](https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white)</a>
-
--------
-
-📊 **Weekly development breakdown**
-<!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.9%20million%20lines%20of%20code-blue)
-
-**🐱 My Github Data** 
-
-> 🏆 43 Contributions in the Year 2021
- > 
-> 📦 0 Bytes Used in Github's Storage 
- > 
-> 💼 Opted to Hire
- > 
-> 📜 65 Public Repositories 
- > 
-> 🔑 0 Private Repositories  
- > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning    36 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.74% 
-🌆 Daytime    73 commits     ████████░░░░░░░░░░░░░░░░░   33.95% 
-🌃 Evening    62 commits     ███████░░░░░░░░░░░░░░░░░░   28.84% 
-🌙 Night      44 commits     █████░░░░░░░░░░░░░░░░░░░░   20.47%
-
-```
-📅 **I'm Most Productive on Thursday** 
-
-```text
-Monday       7 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   3.26% 
-Tuesday      11 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   5.12% 
-Wednesday    29 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.49% 
-Thursday     77 commits     █████████░░░░░░░░░░░░░░░░   35.81% 
-Friday       43 commits     █████░░░░░░░░░░░░░░░░░░░░   20.0% 
-Saturday     15 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   6.98% 
-Sunday       33 commits     ███░░░░░░░░░░░░░░░░░░░░░░   15.35%
-
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-JavaScript               14 hrs              ███████████████████████░░   93.47% 
-HTML                     19 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.14% 
-YAML                     17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.91% 
-Go                       10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.13% 
-JSON                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.54%
-
-```
-
-
-<!--END_SECTION:waka-->
-
+ 
 -------
 
 ## &#x1f4c8; GitHub Stats
