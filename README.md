@@ -2,11 +2,9 @@
 
 <img align="right" src="https://media.giphy.com/media/Vuw9m5wXviFIQ/source.gif" width="280" height="auto" />
 
-- 🔭 I’m currently working for [Unbunked](https://unbunked.com/) as a Full Stack Intern
+- 🔭 I’m currently working for [DataGrokr](https://www.datagrokr.com/) as a Software Developer.
   
-
-- 🌱 I’m currently learning React.js and GraphQL. 
-  
+- 🌱 I’m currently working on dotnet. 
 
 - 🎮 I'm playing Apex Legends and Valorant
 
