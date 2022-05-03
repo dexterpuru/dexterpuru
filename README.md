@@ -2,9 +2,7 @@
 
 <img align="right" src="https://media.giphy.com/media/Vuw9m5wXviFIQ/source.gif" width="280" height="auto" />
 
-- 🔭 I’m currently working for [DataGrokr](https://www.datagrokr.com/) as a Software Developer.
-  
-- 🌱 I’m currently working on dotnet. 
+- 🔭 I’m currently working for [Nimbbl](https://nimbbl.biz/) as a Software Development Engineer.
 
 - 🎮 I'm playing Apex Legends and Valorant
 
