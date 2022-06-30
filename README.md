@@ -1,4 +1,4 @@
-# Hello!, I am Pratyaksh <img src="https://raw.githubusercontent.com/dexterpuru/dexterpuru/master/wave.gif" width="10px">
+# Hello!, I am Pratyaksh
 
 <img align="right" src="https://media.giphy.com/media/Vuw9m5wXviFIQ/source.gif" width="280" height="auto" />
 
